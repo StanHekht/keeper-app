@@ -4,5 +4,5 @@
 React.js
 
 ### Back End
-:WIP:
+WIP
 
